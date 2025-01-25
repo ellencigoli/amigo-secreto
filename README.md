@@ -17,6 +17,7 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Pessoas Desenvolvedoras do Projeto](#-pessoas-desenvolvedoras-do-projeto)
 - [Licença](#-licença)
+- [Badge Alura](#-badge-alura)
 
 ---
 
@@ -66,3 +67,9 @@ O **Amigo Secreto** é uma aplicação simples e interativa para gerenciar lista
 
 ## 📝 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+
+---
+
+## Badge Alura
+![Alura Badge](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
