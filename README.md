@@ -2,9 +2,9 @@
 
 ![Imagem de Capa](assets/amigo-secreto.png)
 
-[![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/seuusuario/seuprojeto)
+[![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)](https://github.com/ellencigoli/amigo-secreto)
 [![Licença](https://img.shields.io/badge/licença-MIT-blue)](./LICENSE)
-[![Versão](https://img.shields.io/badge/versão-1.0.0-green)](https://github.com/seuusuario/seuprojeto)
+[![Versão](https://img.shields.io/badge/versão-1.0.0-green)](https://github.com/ellencigoli/amigo-secreto)
 
 ---
 
@@ -60,7 +60,7 @@ O **Amigo Secreto** é uma aplicação simples e interativa para gerenciar lista
 
 ## 💻 Pessoas Desenvolvedoras do Projeto
 
-- [Ellen Cigoli](github.com/ellencigoli) 
+- [Ellen Cigoli](https://github.com/ellencigoli/) 
 
 ---
 
